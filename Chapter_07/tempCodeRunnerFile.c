@@ -1,0 +1,1 @@
+    // printArr(marks, 5);
